@@ -1,21 +1,54 @@
-# Weather App With React JS
 
-This project designed with HTML, CSS, BOOTSTRAP, JS, REACT JS .\
-I used **somteacodes/weatherapp**'s design for the UI design and made some minor changes to it.
-
-![image](https://user-images.githubusercontent.com/40702669/145445286-584e0c26-6c8a-4c87-9ec7-8fa67f542465.png)
-![image](https://user-images.githubusercontent.com/40702669/145445362-bad5199d-8382-4737-9567-cf4226977793.png)
-![image](https://user-images.githubusercontent.com/40702669/145445461-a5223e02-3eeb-4fcb-ac83-0fe755e280b0.png)
+# Weatherapp
+ A simple weather app made in React. Uses openweather api.
+ 
 
 
+## Demo
+![Screenshot 2022-02-17 at 17-39-50 React App](https://user-images.githubusercontent.com/10794019/154796963-5938390a-ab07-454e-8423-6b0ff42843cd.png)
 
 
-## Available Scripts
 
-In the project directory, you can run:
+## Run Locally
 
-### `npm start`
+Clone the project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```bash
+  git clone https://github.com/boneyrox/weatherapp
+```
+
+Go to the project directory
+
+```bash
+  cd weatherapp
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+or
+```bash
+  yarn install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+or
+
+ ```bash
+  yarn run start
+```
+
+
+## Tech Stack
+
+**Client:** React
+
+**Dependencies:** axios, react-icons
+
 
